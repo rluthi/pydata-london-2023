@@ -1,0 +1,10 @@
+hiplot
+ipykernel
+jupyterlab
+lightgbm
+pandas
+pygwalker
+seaborn
+shap
+sklearn
+ydata-profiling
