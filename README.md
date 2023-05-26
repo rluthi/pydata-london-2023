@@ -9,7 +9,7 @@
 pip install -r requirements.txt
 ```
 
-## Gettign started
+## Getting started
 
 Start a `jupyter lab`:
 
