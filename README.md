@@ -1,5 +1,7 @@
 # Data to Insights - Demo
 
+**[SLIDES !](https://www.slideshare.net/secret/xrALmDTkzrTyCM)**
+
 ## Setting up the environment
 
 1. Create a `python 3.11` environment
